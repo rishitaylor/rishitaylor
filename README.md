@@ -1,3 +1,28 @@
+<h3 align="center">A passionate Flutter developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitaylor&label=Profile%20views&color=0e75b6&style=flat" alt="rishitaylor" /> </p>
+
+<p align="left"> <a href="https://twitter.com/x3rishi" target="blank"><img src="https://img.shields.io/twitter/follow/x3rishi?logo=twitter&style=for-the-badge" alt="x3rishi" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter**
+
+- 👀 I’m interested in developing mobile apps, **AI and newer Technologies.**
+
+- 💬 Ask me about **Flutter, Dart and Firebase ,Getx**
+
+- 📫 How to reach me **tailorrishi73@gmail.com**
+
+- ⚡ Fun fact **BAIGAN**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/x3rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x3rishi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishi-tailor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-tailor" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user23464863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user23464863" height="30" width="40" /></a>
+<a href="https://fb.com/xd.alxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xd.alxx" height="30" width="40" /></a>
+<a href="https://instagram.com/x3._.pain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x3._.pain" height="30" width="40" /></a>
+<a href="https://medium.com/@x3rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@x3rishi" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/xd.alxx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x3._.pain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-tailor) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@x3rishi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user23464863) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x3rishi) 
